@@ -1,3 +1,4 @@
+#commit을 위한 파일 변경
 import os
 # [팀원 A]가 완성한 기능 import
 from processors.loader import load_image, save_image, get_image_files
