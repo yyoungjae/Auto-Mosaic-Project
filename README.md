@@ -1,4 +1,4 @@
-Auto Mosaic Project
+<img width="446" height="369" alt="image" src="https://github.com/user-attachments/assets/44ee8aba-c1cf-49ae-a9fd-5ed7a7b836af" />Auto Mosaic Project
 1. Project Overview
 
 Auto Mosaic Processor is a Python-based image processing project that automatically detects faces and applies mosaic (Gaussian blur) to protect privacy.
@@ -6,7 +6,8 @@ It uses OpenCV’s Haar Cascade classifier for face detection and processes mult
 The project is modularized into separate components for loading images, applying mosaic effects, and orchestrating the full pipeline.
 
 2. Demo (Before / After)
-Before	After
+Before
+After
 (Insert original image)	(Insert mosaic-applied result)
 
 You can generate your own demo by placing images in the assets/ folder and checking the processed outputs in output_processed/.
@@ -82,8 +83,8 @@ Returns the processed result
 
 6. Contributors
 
-Team Member A — Image loading & saving module (loader.py)
+Team Member A (함태은) — Image loading & saving module (loader.py)
 
-Team Member B — Face detection & mosaic algorithm (blur.py)
+Team Member B (양영재)— Face detection & mosaic algorithm (blur.py)
 
-Integrator — Main pipeline assembly (main.py) and project structure
+Team Member C (김민서)— Main pipeline assembly(main.py) and project structure
