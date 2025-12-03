@@ -11,6 +11,8 @@ Before
 
 After
 <img width="450" height="375" alt="image" src="https://github.com/user-attachments/assets/0c1908c2-a5e9-47eb-a4e6-986defc6f6e6" />
+
+
 You can generate your own demo by placing images in the assets/ folder and checking the processed outputs in output_processed/.
 
 3. Packages Used & Versions
