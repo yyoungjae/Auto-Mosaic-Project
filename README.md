@@ -5,8 +5,10 @@ It uses OpenCV’s Haar Cascade classifier for face detection and processes mult
 The project is modularized into separate components for loading images, applying mosaic effects, and orchestrating the full pipeline.
 
 2. Demo (Before / After)
+
 Before
 <img width="450" height="375" alt="image" src="https://github.com/user-attachments/assets/4546fee1-6c4d-4c59-9c71-57039982336e" />
+
 After
 <img width="450" height="375" alt="image" src="https://github.com/user-attachments/assets/0c1908c2-a5e9-47eb-a4e6-986defc6f6e6" />
 You can generate your own demo by placing images in the assets/ folder and checking the processed outputs in output_processed/.
