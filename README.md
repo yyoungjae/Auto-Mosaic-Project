@@ -1,4 +1,3 @@
-<img width="446" height="369" alt="image" src="https://github.com/user-attachments/assets/44ee8aba-c1cf-49ae-a9fd-5ed7a7b836af" />Auto Mosaic Project
 1. Project Overview
 
 Auto Mosaic Processor is a Python-based image processing project that automatically detects faces and applies mosaic (Gaussian blur) to protect privacy.
@@ -7,9 +6,9 @@ The project is modularized into separate components for loading images, applying
 
 2. Demo (Before / After)
 Before
+<img width="450" height="375" alt="image" src="https://github.com/user-attachments/assets/4546fee1-6c4d-4c59-9c71-57039982336e" />
 After
-(Insert original image)	(Insert mosaic-applied result)
-
+<img width="450" height="375" alt="image" src="https://github.com/user-attachments/assets/0c1908c2-a5e9-47eb-a4e6-986defc6f6e6" />
 You can generate your own demo by placing images in the assets/ folder and checking the processed outputs in output_processed/.
 
 3. Packages Used & Versions
